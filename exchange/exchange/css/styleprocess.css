@@ -1,0 +1,60 @@
+#wrapper{
+	width: 100%;
+	height: auto;
+	float: left;
+}
+.container {
+	margin:  0 auto;
+	width: 1024px;
+	height: 568px;
+	padding-top: 100px;
+	/*background: #ff9a9e;*/
+	background: #e0c3fc; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#e0c3fc, #8ec5fc); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#e0c3fc, #8ec5fc); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#e0c3fc, #8ec5fc); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#e0c3fc, #8ec5fc); /* Standard syntax */
+}
+.container-money{
+	background: #ffffff;
+	height: 200px;
+	width: 450px;
+	margin: 0 auto;
+	border-radius: 10px 10px 10px 10px;
+}
+.logo img{
+	margin: 0 auto;
+	width: 400px;
+	height: 120px;
+	padding-left: 320px;
+}
+.exchange-box{
+	padding-top: 10px;
+}
+.center{
+	margin: 0 auto;
+	padding-top: 20px;
+	text-align: center;
+	color: #696969;
+}
+.text-head p{
+	color: #ffffff;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.exchange-box h2{
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	text-align: center;
+	color: #696969;
+}
+.back{
+	margin: 0 auto;
+	padding-top: 50px;
+	padding-left: 180px;
+	color: 
+}
+
